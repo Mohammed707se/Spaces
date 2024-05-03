@@ -1,0 +1,158 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "lat": 21.423542,
+      "lng": 39.825780,
+      "status": "متاح",
+      "condition": "green",
+      "place": "باب الفتح",
+      "distance": "200 متر عن الكعبة",
+      "photoLink": "https://lh5.googleusercontent.com/p/AF1QipPWa7BySihVu_jplIEbibBwf77PW2kn6RdI0iDH=w408-h513-k-no",
+      "filmingTimes": "10:00 AM - 6:00 PM",
+      "rating": 4.5,
+      "permits": "مطلوب",
+      "comments": [
+        {
+          "commenterName": "Ali",
+          "commenterPhoto": "https://example.com/user1.jpg",
+          "commentDate": "2024-04-10",
+          "commentStars": 5,
+          "commentText": "Beautiful place and well maintained."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lat": 21.422804,
+      "lng": 39.826708,
+      "status": "مزدحم",
+      "condition": "red",
+      "place": "بئر زمزم",
+      "distance": "٣٥٠ متر عن الكعبة",
+      "photoLink": "https://lh5.googleusercontent.com/p/AF1QipOdfu_qvsPXs6bnlTqBZU4hqr1Ot6Rvx8mwUJoo=w408-h272-k-no",
+      "filmingTimes": "مغلق للصيانة",
+      "rating": 3.0,
+      "permits": "Not required",
+      "comments": [
+        {
+          "commenterName": "Mona",
+          "commenterPhoto": "https://example.com/user2.jpg",
+          "commentDate": "2024-03-15",
+          "commentStars": 3,
+          "commentText": "Currently inaccessible due to construction."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lat": 21.422634266416736,
+      "lng": 39.82772262841218,
+      "status": "متاح",
+      "condition": "green",
+      "place": "باب السلام",
+      "distance": "٥٠٠ متر عن الكعبة",
+      "photoLink": "https://lh5.googleusercontent.com/p/AF1QipP_s1cTKbLmDJvYIOALgtQJc5lziIm2lPhSMudF=w408-h306-k-no",
+      "filmingTimes": "8:00 AM - 5:00 PM",
+      "rating": 4.7,
+      "permits": "Required",
+      "comments": [
+        {
+          "commenterName": "Hassan",
+          "commenterPhoto": "https://example.com/user3.jpg",
+          "commentDate": "2024-02-20",
+          "commentStars": 5,
+          "commentText": "A historic place with lots of charm."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lat": 21.42280402292962,
+      "lng": 39.824750732279355,
+      "condition": "green",
+      "status": "متاح",
+      "place": "برج الساعة",
+      "distance": "١٥٠ متر عن الكعبة",
+      "photoLink": "https://lh5.googleusercontent.com/p/AF1QipNcH72hrw-H-bEYs4Euz5cIgNA1CXTBmKiX33de=w408-h544-k-no",
+      "filmingTimes": "9:00 AM - 7:00 PM",
+      "rating": 4.8,
+      "permits": "Required",
+      "comments": [
+        {
+          "commenterName": "Layla",
+          "commenterPhoto": "https://example.com/user4.jpg",
+          "commentDate": "2024-04-22",
+          "commentStars": 5,
+          "commentText": "Always a great place to visit, especially during events."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "lat": 21.42529732753271,
+      "lng": 39.82427405206071,
+      "condition": "red",
+      "status": "مزدحم",
+      "place": "باب الملك عبدالله",
+      "distance": "٤٠٠ متر عن الكعبة",
+      "photoLink": "https://lh5.googleusercontent.com/p/AF1QipOj2XeFikc7uzEhRSTjQ033KpzWIzkDgxAbJJG4=w408-h306-k-no",
+      "filmingTimes": "مزدحم جداً",
+      "rating": 3.5,
+      "permits": "Not required",
+      "comments": [
+        {
+          "commenterName": "Sara",
+          "commenterPhoto": "https://example.com/user5.jpg",
+          "commentDate": "2024-01-11",
+          "commentStars": 3,
+          "commentText": "Can't wait for the new exhibits to open!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lat": 21.424348510801597,
+      "lng": 39.82727603681709,
+      "condition": "green",
+      "status": "متاح",
+      "place": "شِعب أبي طالب",
+      "distance": "٨٠٠متر عن الكعبة",
+      "photoLink": "https://lh5.googleusercontent.com/p/AF1QipMD4CZRWg4jAbYOe1hcUmIUzwmJEWR4dnwy-VgA=w408-h544-k-no",
+      "filmingTimes": "6:00 AM - 8:00 PM",
+      "rating": 4.9,
+      "permits": "Required",
+      "comments": [
+        {
+          "commenterName": "Yasmin",
+          "commenterPhoto": "https://example.com/user7.jpg",
+          "commentDate": "2024-03-07",
+          "commentStars": 5,
+          "commentText": "The heart of the city, always vibrant and full of life."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lat": 21.4228139230138,
+      "lng": 39.82477422065826,
+      "condition": "red",
+      "status": "مزدحم",
+      "place": "Metropolitan Theater",
+      "distance": "220m from center",
+      "photoLink": "https://example.com/photo8.jpg",
+      "filmingTimes": "Closed for renovation",
+      "rating": 3.2,
+      "permits": "Not required",
+      "comments": [
+        {
+          "commenterName": "Nadia",
+          "commenterPhoto": "https://example.com/user8.jpg",
+          "commentDate": "2024-03-30",
+          "commentStars": 3,
+          "commentText": "Looking forward to the reopening next year."
+        }
+      ]
+    }
+  ]
+}
